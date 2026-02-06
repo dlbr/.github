@@ -1,11 +1,11 @@
-# DLBR Cloud ☁️🚛
+# DLBR
 
 **Brutalno precizna rešenja za transportnu logistiku i telemetriju.**
 *Pretvaramo haotične podatke iz tahografa i GPS senzora u čistu operativnu dobit.*
 
 ---
 
-### 🚀 Ko smo mi? (The Mission)
+### Ko smo mi? (The Mission)
 DLBR nije još jedan "tracking" softver. Mi smo strateški partner transportnih firmi koji ne veruje nikome osim podacima. Naš fokus je automatizacija onoga što je ranije zahtevalo sate administracije i rizik od inspekcije.
 
 *   **Data integrity:** Automatsko upoređivanje RDL (.ddd) zapisa, GPS telemetrije i evidencije troškova.
