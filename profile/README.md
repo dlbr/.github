@@ -8,13 +8,3 @@ DLBR is not just another "tracking" software. We are a strategic partner for tra
 *   **Operational Precision:** Every manual process introduces a risk of administrative error. By automating ingestion, we ensure 100% data compliance with real-world events.
 *   **Success Fee Mindset:** We build tools that directly recover lost revenue through automated excise tax refund processing.
 ---
-### DLBR Ecosystem
-The core pillars of our infrastructure:
-*   [**ddd-parser**](https://github.com/dlbr/ddd-parser) 🧩 - Industrial-grade Digital Tachograph parser (Gen1/Gen2). Built for serverless, AWS-level scalability on Cloudflare infrastructure.
-*   [**tcp-server**](https://github.com/dlbr/tcp-server) 📡 - High-performance Teltonika Codec 8 ingestor. Consuming millions of road-event packets and streaming them directly to our data lake.
----
-### Resources
-*   **API:** [ddd.dlbr.cloud](https://ddd.dlbr.cloud)
-*   **Ingest:** [tcp.dlbr.cloud](https://tcp.dlbr.cloud)
-*   **Registry:** [ghcr.io/dlbr](https://ghcr.io/dlbr)
-*   **Status:** [Phase 4 - Compliance Automation (Active)]
